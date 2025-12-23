@@ -1,1 +1,5 @@
-streamlit python-dotenv openai xlsxwriter requests
+streamlit
+python-dotenv
+openai
+xlsxwriter
+requests
